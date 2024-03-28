@@ -1,0 +1,12 @@
+@import url("https://use.typekit.net/ieq8ymf.css");
+
+body {
+    font-family: "neue-haas-grotesk-display", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+p {
+    margin: 0;
+    color: red;
+}
