@@ -1,0 +1,16 @@
+### Request Headers
+---
+- https://github.com/progsen/M3Prog_backend/raw/main/les-5/img/web-inspector.png
+- GET
+- 302 - redirection
+- User-Agent
+---
+- https://github.githubassets.com/assets/command-palette-5a8f1ca7246f.js
+- GET
+- 200 - successful
+- User-Agent
+---
+- https://github.githubassets.com/assets/keyboard-shortcuts-dialog-26d09820239e.js
+- GET
+- 200 - successful
+- User-Agent
